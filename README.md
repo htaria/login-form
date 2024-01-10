@@ -1,4 +1,4 @@
-# HTML Right menu
+# HTML Login form
 [see demo](https://htaria.github.io/login-form/)
 
 **Unfortunately, this is not a very good HTML login form.**
